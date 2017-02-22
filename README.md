@@ -11,6 +11,7 @@ Forces users to accept/decline the Privacy Policy of your site
 
 ## Credits
 __Author:__ [Humhub](https://www.humhub.org/en)
+
 __Editor:__ [GreenVolume](https://greenvolume.github.io/index/)
 
 ## Changelogs
