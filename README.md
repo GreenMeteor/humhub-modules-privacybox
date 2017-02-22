@@ -5,7 +5,7 @@
 Forces users to accept/decline the Privacy Policy of your site
 
 ## Install
-- Extract archive and rename to `Privacybox`. > Note: May not be required!
+- Extract archive and rename to `Privacybox`. ```Note: May not be required!```
 - Place folder in: yoursite.com/protected/modules
 - Go to Admin Panel->Modules->Privacybox and enable the module.
 
