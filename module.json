@@ -1,0 +1,10 @@
+{
+    "id": "privacybox",
+    "name": "Privacy Box",
+    "description": "Forces users to accept/decline the Privacy Policy of your site.",
+    "keywords": ["privacy", "policy", "box", "modal"],
+    "version": "0.0.1",
+    "humhub": {
+        "minVersion": "1.1"
+    }
+}
