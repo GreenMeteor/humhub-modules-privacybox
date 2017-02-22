@@ -1,0 +1,6 @@
+.privacybox-body {
+    padding:5px;
+    max-height: 200px;
+    overflow-y: auto;
+    border:1px solid grey;
+}
