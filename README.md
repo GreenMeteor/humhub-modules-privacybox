@@ -16,3 +16,11 @@ __Editor:__ [GreenVolume](https://greenvolume.github.io/index/)
 
 ## Changelogs
 https://github.com/GreenVolume/humhub-modules-privacybox/commits/master
+
+To-Does | Description
+------------ | -------------
+Template | Adding English template for translations ✓
+Japanese | Adding Japanese translations ✓
+Spanish | Adding Spanish translation ✓
+Chinese | Adding Chinese translation
+Korean | Adding Korean translation
