@@ -3,8 +3,8 @@
     "name": "Privacy Box",
     "description": "Forces users to accept/decline the Privacy Policy of your site.",
     "keywords": ["privacy", "policy", "box", "modal"],
-    "version": "0.0.1",
+    "version": "0.0.6",
     "humhub": {
-        "minVersion": "1.1"
+        "minVersion": "1.1.2"
     }
 }
