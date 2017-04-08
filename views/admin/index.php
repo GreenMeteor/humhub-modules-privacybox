@@ -2,7 +2,7 @@
 
 use yii\helpers\Url;
 use yii\helpers\Html;
-use yii\bootstrap\ActiveForm;
+use humhub\compat\CActiveForm;
 
 ?>
 \
@@ -10,7 +10,7 @@ use yii\bootstrap\ActiveForm;
     <div class="panel-heading"><?= Yii::t('PrivacyboxModule.views_admin_index', 'Privacy Box Configuration'); ?></div>
     <div class="panel-body">
 
-        <?php $form = ActiveForm::begin(['id' => 'privacybox-settings-form']); ?>
+        <?php $form = CActiveForm::begin(['id' => 'privacybox-settings-form']); ?>
 
         <?= $form->errorSummary($model); ?>
 
@@ -37,6 +37,6 @@ use yii\bootstrap\ActiveForm;
         <?= Html::submitButton(Yii::t('PrivacyboxModule.views_admin_index', 'Save'), ['class' => 'btn btn-primary', 'data-ui-loader' => '']); ?>
         <a class="btn btn-default" href="<?= Url::to(['/admin/module']); ?>"><?= Yii::t('PrivacyboxModule.views_admin_index', 'Back to modules'); ?></a>
 
-        <?php ActiveForm::end(); ?>
+        <?php CActiveForm::end(); ?>
     </div>
 </div>
