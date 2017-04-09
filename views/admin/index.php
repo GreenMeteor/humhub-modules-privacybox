@@ -5,7 +5,7 @@ use yii\helpers\Html;
 use humhub\compat\CActiveForm;
 
 ?>
-\
+
 <div class="panel panel-default">
     <div class="panel-heading"><?= Yii::t('PrivacyboxModule.views_admin_index', 'Privacy Box Configuration'); ?></div>
     <div class="panel-body">
