@@ -4,6 +4,8 @@
 ## Description
 Forces users to accept/decline the Privacy Policy of your site
 
+# Notice: This module will be no longer worked on and will be merged with the Termsbox module in the future!
+
 ## Install
 - Extract archive and rename to `Privacybox`. ```Note: May not be required!```
 - Place folder in: yoursite.com/protected/modules
